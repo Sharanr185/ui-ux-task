@@ -1,4 +1,4 @@
-# ui-ux-task-1
+# ui-ux-task
 
 #TASK-1-Login and signup page for restaurant website
 #TASK-3-Restaurant page
